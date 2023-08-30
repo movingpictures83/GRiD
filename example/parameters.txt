@@ -1,0 +1,6 @@
+inputfile	inputfile.txt
+inputfile2	inputfile2.txt
+inputfile3	inputfile3.txt
+coverage	0.557
+dnaa	112378
+dif	1738619

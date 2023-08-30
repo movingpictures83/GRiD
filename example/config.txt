@@ -1,0 +1,2 @@
+Prefix plugins/GRiD/example
+Plugin GRiD inputfile parameters.txt outputfile output.grid
